@@ -1,7 +1,7 @@
 # SoS - Solution Simulator
 
 <p align="center">
-<img width="100" alt="icon" src="https://github.com/AnnaLivia/Case---Optimizing-Food-Donation-Delivery-for-Nonprofit-Company/assets/46559408/00659482-744b-476e-871e-8ef597b61d20")
+  <img src="https://github.com/AnnaLivia/SoS/blob/main/icon.png" width="100" />
 </p>
 
 **SoS** is an offline application for the case presented in
@@ -27,7 +27,7 @@ The application is compatible with Windows and macOS platforms.
 <br>
 
 <p align="center">
-<img width="531" alt="Figure1" src="https://github.com/AnnaLivia/Case---Optimizing-Food-Donation-Delivery-for-Nonprofit-Company/assets/46559408/b9345b35-3287-4a49-99a3-5e317cba9765">
+  <img src="https://github.com/AnnaLivia/SoS/blob/main/Figure1.png" width="531"/>
 </p>
 
 <p align="center"><b>Figure1:</b> SoS Home Frame.</p>
