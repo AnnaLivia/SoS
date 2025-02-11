@@ -1,7 +1,7 @@
 # SoS - Solution Simulator
 
 <p align="center">
-  <img src="https://github.com/AnnaLivia/SoS/blob/main/icon.png" width="100" />
+  <img src="https://github.com/AnnaLivia/SoS/blob/main/figures/icon.png" width="100" />
 </p>
 
 **SoS** is an offline application for the case presented in
@@ -27,7 +27,7 @@ The application is compatible with Windows and macOS platforms.
 <br>
 
 <p align="center">
-  <img src="https://github.com/AnnaLivia/SoS/blob/main/Figure1.png" width="531"/>
+  <img src="https://github.com/AnnaLivia/SoS/blob/main/figures/Figure1.png" width="531"/>
 </p>
 
 <p align="center"><b>Figure1:</b> SoS Home Frame.</p>
@@ -46,9 +46,9 @@ The <em>data</em> folder contains an Excel file named <em>Data.xlsx</em> with al
     <li> an origin-destination matrix of the distances from every soup kitchen to every warehouse (sheet <em>Distances S-W</em>);</li>
     <li> a list of supplementary parameters and coefficients (sheet <em>Additional Parameters</em>).</li>
 </ul>
-<p>
+
 A file named <em>Data.txt</em>, summarizing all data reported in <em>Data.xlsx</em> in a text file, can also be generated using a **SoS** command <code>Print</code>.
-</p>
+
 
 #### Input
 The <em>input</em> folder contains solution-alike </em>.txt</em> files.  To evaluate the quality of a proposed solution, users must populate this folder with the solution data.
@@ -57,12 +57,11 @@ The <em>input</em> folder contains solution-alike </em>.txt</em> files.  To eval
 The <em>output</em> folder is the target folder for the simulation reports. After a simulation, the <em>\output</em> folder is automatically populated with a variable summary file and a report.
 
 ## How to use SoS
-<p>
+
 The **SoS** allows users to gain insights into a solution and inspect the framework data. A Map frame provides a navigable map of all soup kitchens, local businesses, and warehouses, and an Info frame summarizes the step-by-step procedure for running a simulation.
-</p>
-<p>
+
 Within the Home frame, there are three command buttons:
-</p>
+
 <ul>
 <li> <code>Print</code>: Print the model parameters in a file named <em>Data.txt</em> in the data folder. This file summarizes all model dimensions and parameters.
 </li>
